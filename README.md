@@ -1,2 +1,3 @@
 # revert-reset-practice
-Git practice
+Git practice  
+githubで変更間違えた
